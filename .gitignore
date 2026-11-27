@@ -13,3 +13,18 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+*.DS_Store
+.vscode
+go.work
+go.work.sum
+.*.swp
+
+.gograph/
+.graphifyignore
+graphify-out/
+code_review.md
+.agents/
+.mcp.json
+CLAUDE.md
+GEMINI.md
